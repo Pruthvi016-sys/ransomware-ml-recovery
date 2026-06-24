@@ -100,8 +100,8 @@ ransomware-recovery-ml/
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/ransomware-recovery-ml
-cd ransomware-recovery-ml
+git clone https://github.com/Pruthvi016-sys/ransomware-ml-recovery
+cd ransomware-ml-recovery
 
 pip install -r requirements.txt
 ```
